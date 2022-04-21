@@ -7,7 +7,7 @@ const ProductsPage = () => {
     <main>
       <PageHero title="products" />
       <Wrapper className='page'>
-        <div className="section-certer products">
+        <div className="section-center products">
           <Filters />        
           <div>
             <Sort/>
